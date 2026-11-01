@@ -1,0 +1,11 @@
+external/
+results/*
+!results/.gitkeep
+config.env
+**/__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.miniforge3/
+Miniforge3-Linux-x86_64.sh
+*~
