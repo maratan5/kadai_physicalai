@@ -4,6 +4,10 @@
 
 > **RTX 5080 / 16GBで確認済み。（推奨は24GB以上）**
 
+## 使用した学習済みモデル
+
+- [π₀.₅ BEHAVIOR 2026 Dexterity（Hugging Face）](https://huggingface.co/VivekChandra/pi05-behavior-2026-dexterity)
+
 ## セットアップ（初回のみ）
 
 Ubuntu上でDocker（NVIDIA GPU対応）、Git、Condaが使える状態で実行します。OpenAI APIキーは `~/.bashrc` に `OPENAI_API_KEY` として設定してください。
