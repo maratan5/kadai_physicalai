@@ -6,7 +6,7 @@
 
 ## 使用した学習済みモデル
 
-- [pi05-behavior2026-dexterity（Hugging Face）](https://huggingface.co/VivekChandra/pi05-behavior-2026-dexterity)
+- [pi05-behavior-2026-dexterity（Hugging Face）](https://huggingface.co/VivekChandra/pi05-behavior-2026-dexterity)
 
 ## セットアップ（初回のみ）
 
